@@ -10,6 +10,8 @@ The primary objective was to gain experience with the full engineering design cy
 
 ---
 
+![Project's Block Design Diagram](docs/fig_vivado_block_design.png)
+
 ## Project Objectives
 
 * Design and implement a spoken number recognition system.
@@ -93,11 +95,10 @@ This project combines concepts from:
 ## Repository Structure
 
 ```text
-├── matlab/           # Speech processing and algorithm development
-├── vhdl/             # Hardware description files
-├── simulations/      # Simulation results and testbenches
+├── Matlab Codes/     # Speech processing and algorithm development
+├── IPs/              # IP description files
 ├── hardware/         # Circuit schematics and PCB-related files
-├── reports/          # Project reports and documentation
+├── Manuals/          # Lab documentation
 └── docs/             # Additional project resources
 ```
 
