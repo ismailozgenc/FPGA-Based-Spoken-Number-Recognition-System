@@ -12,6 +12,8 @@ The primary objective was to gain experience with the full engineering design cy
 
 ![Project's Block Design Diagram](docs/fig_vivado_block_design.png)
 
+![FPGA with SNR](docs/SNRinFPGA.jpeg)
+
 ## Project Objectives
 
 * Design and implement a spoken number recognition system.
