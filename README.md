@@ -18,7 +18,7 @@ Project's Block Design Diagram
 
 Project in FPGA
 
-![FPGA with SNR](docs/SNRinFPGA.jpeg)
+![FPGA with SNR](docs/SNRinFPGA_h.jpeg)
 
 ## Project Objectives
 
